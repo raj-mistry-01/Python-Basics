@@ -1,0 +1,15 @@
+# draw pentagon by turtle graphics.
+import turtle
+turtle.speed(1)
+turtle.getscreen()
+turtle.shape("turtle")
+turtle.forward(100)
+turtle.left(72)
+turtle.forward(100)
+turtle.lt(72)
+turtle.forward(100)
+turtle.lt(72)
+turtle.forward(100)
+turtle.lt(72)
+turtle.forward(100)
+turtle.mainloop()

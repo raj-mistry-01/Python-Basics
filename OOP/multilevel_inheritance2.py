@@ -1,0 +1,1 @@
+# take one attribute fom class 1 , second for class2 and third ftom class3 itself , intialize for an onject ,  all them in class 3 by inheritance 
